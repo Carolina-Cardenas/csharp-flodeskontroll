@@ -1,0 +1,14 @@
+/Users/Carolina/LEXICON/csharp-flodeskontroll/bin/Debug/net8.0/csharp-flodeskontroll
+/Users/Carolina/LEXICON/csharp-flodeskontroll/bin/Debug/net8.0/csharp-flodeskontroll.deps.json
+/Users/Carolina/LEXICON/csharp-flodeskontroll/bin/Debug/net8.0/csharp-flodeskontroll.runtimeconfig.json
+/Users/Carolina/LEXICON/csharp-flodeskontroll/bin/Debug/net8.0/csharp-flodeskontroll.dll
+/Users/Carolina/LEXICON/csharp-flodeskontroll/bin/Debug/net8.0/csharp-flodeskontroll.pdb
+/Users/Carolina/LEXICON/csharp-flodeskontroll/obj/Debug/net8.0/csharp-flodeskontroll.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Carolina/LEXICON/csharp-flodeskontroll/obj/Debug/net8.0/csharp-flodeskontroll.AssemblyInfoInputs.cache
+/Users/Carolina/LEXICON/csharp-flodeskontroll/obj/Debug/net8.0/csharp-flodeskontroll.AssemblyInfo.cs
+/Users/Carolina/LEXICON/csharp-flodeskontroll/obj/Debug/net8.0/csharp-flodeskontroll.csproj.CoreCompileInputs.cache
+/Users/Carolina/LEXICON/csharp-flodeskontroll/obj/Debug/net8.0/csharp-flodeskontroll.dll
+/Users/Carolina/LEXICON/csharp-flodeskontroll/obj/Debug/net8.0/refint/csharp-flodeskontroll.dll
+/Users/Carolina/LEXICON/csharp-flodeskontroll/obj/Debug/net8.0/csharp-flodeskontroll.pdb
+/Users/Carolina/LEXICON/csharp-flodeskontroll/obj/Debug/net8.0/csharp-flodeskontroll.genruntimeconfig.cache
+/Users/Carolina/LEXICON/csharp-flodeskontroll/obj/Debug/net8.0/ref/csharp-flodeskontroll.dll
